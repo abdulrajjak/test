@@ -1,1 +1,1 @@
-<?php ehco "hi1212"; ?>
+<?php ehco "hi1212 "; ?>
