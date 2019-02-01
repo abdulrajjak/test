@@ -1,1 +1,3 @@
-<?php ehco "hi"; ?>
+<?php 
+	ehco "hi";echo "<br>";
+ ?>
